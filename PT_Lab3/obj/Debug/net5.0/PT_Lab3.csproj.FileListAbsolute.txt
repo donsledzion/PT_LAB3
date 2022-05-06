@@ -1,0 +1,16 @@
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\bin\Debug\net5.0\PT_Lab3.exe
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\bin\Debug\net5.0\PT_Lab3.deps.json
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\bin\Debug\net5.0\PT_Lab3.runtimeconfig.json
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\bin\Debug\net5.0\PT_Lab3.runtimeconfig.dev.json
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\bin\Debug\net5.0\PT_Lab3.dll
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\bin\Debug\net5.0\ref\PT_Lab3.dll
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\bin\Debug\net5.0\PT_Lab3.pdb
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\PT_Lab3.csproj.AssemblyReference.cache
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\PT_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\PT_Lab3.AssemblyInfoInputs.cache
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\PT_Lab3.AssemblyInfo.cs
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\PT_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\PT_Lab3.dll
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\ref\PT_Lab3.dll
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\PT_Lab3.pdb
+C:\Users\choja\source\repos\PT_Lab3\PT_Lab3\obj\Debug\net5.0\PT_Lab3.genruntimeconfig.cache
